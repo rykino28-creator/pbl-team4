@@ -2,7 +2,7 @@
 
 - チーム番号:4
 - グループ: B
-- 担当TA:種崎さん
+- 担当TA:種橋さん
 - メンバ:木ノ下諒 近藤天心 坪田博明
 - リポジトリURL:https://github.com/rykino28-creator/pbl-team4
 - Slack チャンネル:https://app.slack.com/client/T01FJM8328M/C0CJ5F98QP5
